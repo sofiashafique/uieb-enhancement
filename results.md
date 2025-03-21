@@ -30,7 +30,7 @@ This document summarizes the results of applying the enhanced DIRS-CLAHS method 
 
 | Original Image | Enhanced Image |
 |----------------|----------------|
-| ![](figures/182_img_.png) | ![](figures/182_img__enhanced.jpg) |
+| ![](figures/25_img_.png) | ![](figures/25_img__enhanced.jpg) |
 | ![](figures/504_img_.png) | ![](figures/504_img__enhanced.jpg) |
 
 
